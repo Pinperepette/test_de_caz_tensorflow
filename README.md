@@ -1,5 +1,5 @@
 ## test_de_caz_tensorflow
-#cazzeggio time
+#cazzeggio time, come si usa ? :
 
 #python3 robot.py -i #inizializza 
 
